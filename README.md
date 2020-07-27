@@ -1,5 +1,5 @@
 ## BBL588_Project
-#Instance Sky Segmentation with Mask R-CNN
+# Instance Sky Segmentation with Mask R-CNN
 
 
 - Presentation, result video, Dataset, project files are too big to upload Github. Link to this project is my google drive at link:
