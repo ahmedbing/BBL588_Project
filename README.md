@@ -25,3 +25,5 @@ Example:
 
 
 - The Result video with above script is uploaded to bbl588_final\Result\ folder. Sadly, it tooks too around 15-20 sec to detect and predict any frame, therefore it is behaving like 0.05 fps. 
+
+- Some Images related to project is here.
