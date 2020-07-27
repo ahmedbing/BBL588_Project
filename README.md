@@ -24,4 +24,4 @@ Or anyone can use Detection.ipynb for observe result of frame in model.
 For Video 2 Frame Conversion, i wrote a script that is Video2Image.py . Some of the frames unrelevant to project, therefore i use more small subset of frames. Dataset path in drive is 'Mask_RCNN\datasets\Sky" folder. Also, Other Bee folder was used in Final exam of that course too. 
 
 
-The Result video with above code is uploaded to bbl588_final\Result\ folder. 
+The Result video with above script is uploaded to bbl588_final\Result\ folder. Sadly, it tooks too around 15-20 sec to detect and predict any frame, therefore it is behaving like 0.05 fps. 
