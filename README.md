@@ -7,6 +7,8 @@
 https://drive.google.com/drive/folders/1UrjTmZgnyIPfTvaOakZI8PsqaIFe_N3M?usp=sharing
 
 
+- Representation video of that project named BBL_588_Proj_Presentation inside to that drive link. It's under to result folder https://drive.google.com/drive/folders/1aepdmYIB3HVIQEY_vg-wyFNEGzL_Ltw2?usp=sharing
+
 - Anyone can re-train from this drive. Training steps at BBL_588_Sky_Train.ipynb.
 
 
@@ -26,4 +28,4 @@ Example:
 
 - The Result video with above script is uploaded to bbl588_final\Result\ folder. Sadly, it tooks too around 15-20 sec to detect and predict any frame, therefore it is behaving like 0.05 fps. 
 
-- Some Images related to project is here.
+- Some Images related to project is at here in repository under Images folder.
